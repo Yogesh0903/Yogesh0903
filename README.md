@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yogesh Kumar Lalwani</h1>
-<h3 align="center">Embarking on a Data Science Journey: Pursuing an MSc in Statistics</h3>
+<h3 align="center">Embarking on a Data Science Journey: Pursuing an MSc in Applied Statistics</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
